@@ -1,0 +1,11 @@
+{
+  "name": "realMyPluginTest",
+  "integrations": {},
+  "type": "ionic1",
+  "watchPatterns": [
+    "scss/**/*",
+    "www/**/*",
+    "!www/lib/**/*",
+    "!www/**/*.map"
+  ]
+}
